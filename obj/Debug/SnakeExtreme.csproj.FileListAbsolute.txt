@@ -1,0 +1,9 @@
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.csprojAssemblyReference.cache
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.csproj.CoreCompileInputs.cache
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\bin\Debug\SnakeExtreme.exe.config
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\bin\Debug\SnakeExtreme.exe
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\bin\Debug\SnakeExtreme.pdb
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.exe
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.pdb
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.Properties.Resources.resources
+C:\Users\BBW-Benutzer\Documents\Aufgaben\CS\SnakeExtreme\SnakeExtreme\obj\Debug\SnakeExtreme.csproj.GenerateResource.cache
